@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+
+# DeepLabCut projects created at runtime by the app
+/output/
+
+# 테스트용 원본 영상
+/mouse00.mp4
+
+/CODE_GUIDE.md
